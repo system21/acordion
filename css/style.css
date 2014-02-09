@@ -4,13 +4,10 @@
 
 .panel-body { padding: 0px; }
 
-/*.panel {
-
-	border: 1px solid rgba(0, 0, 0, 0);
-	border-radius: 4px;
-	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
-	margin-bottom: 20px;
-}*/
+.panel-body .row{
+    padding: 1px;
+    margin-bottom: -20px;
+}
 /*navar*/
 
 
@@ -27,3 +24,24 @@ margin-right: 10px;
 .accordion-toggle:{
 	margin-left: 10px;
 }
+
+.navar21 {
+	margin-left: 25px;
+	margin-top: -2px;
+
+}
+.navar21 img{
+	margin-right: 15px;
+}
+
+.navar21 > li + li {
+    margin-left: 0 !important;
+    margin-top: 0px;
+}
+
+/*
+.glyphicon-minus, .glyphicon-plus {
+  
+    font-size: 25px;
+}
+*/
