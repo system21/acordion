@@ -1,0 +1,29 @@
+.accordion-toggle:hover { text-decoration: none; }
+
+.panel-group .panel + .panel { margin-top: -1px; }
+
+.panel-body { padding: 0px; }
+
+/*.panel {
+
+	border: 1px solid rgba(0, 0, 0, 0);
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+	margin-bottom: 20px;
+}*/
+/*navar*/
+
+
+
+.panel-title > a {
+	 color:  #333333;
+	 font-size: 18px;
+	 line-height: 20px;
+}
+
+.panel-title > a > img {
+margin-right: 10px;
+}
+.accordion-toggle:{
+	margin-left: 10px;
+}
